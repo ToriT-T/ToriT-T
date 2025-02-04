@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ToriT-T/ToriT-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Tori! A few things about me:
+
+## Technologies & Tools  
+- **Languages:** Python, Rust, JavaScript, SQL, C++, C# 
+- **Frameworks:** Ember.js, Rocket, Node.js  
+- **Databases:** SQLite, PostgreSQL  
+- **Other:** Docker, Git, CI/CD  
+
+## Projects  
+- **[Rewards Maximizer](https://github.com/ens-labs/RewardsMaximizer/wiki)** - A web application for optimizing credit cards and rewards. Created during CS410/CS411
